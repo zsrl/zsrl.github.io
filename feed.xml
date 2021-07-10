@@ -1,21 +1,21 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>知识燃料</title>
-    <link href="https://zsrl.github.io/feed.xml" rel="self" />
-    <link href="https://zsrl.github.io" />
+    <link href="https://zsrl.top/feed.xml" rel="self" />
+    <link href="https://zsrl.top" />
     <updated>2021-07-09T01:24:09+08:00</updated>
     <author>
         <name>山舞</name>
     </author>
-    <id>https://zsrl.github.io</id>
+    <id>https://zsrl.top</id>
 
     <entry>
         <title>什么是市净率?</title>
         <author>
             <name>山舞</name>
         </author>
-        <link href="https://zsrl.github.io/shi-me-shi-shi-jing-lu.html"/>
-        <id>https://zsrl.github.io/shi-me-shi-shi-jing-lu.html</id>
+        <link href="https://zsrl.top/shi-me-shi-shi-jing-lu.html"/>
+        <id>https://zsrl.top/shi-me-shi-shi-jing-lu.html</id>
 
         <updated>2021-07-09T01:24:09+08:00</updated>
             <summary>
@@ -34,8 +34,8 @@
         <author>
             <name>山舞</name>
         </author>
-        <link href="https://zsrl.github.io/shi-me-shi-shi-ying-lu.html"/>
-        <id>https://zsrl.github.io/shi-me-shi-shi-ying-lu.html</id>
+        <link href="https://zsrl.top/shi-me-shi-shi-ying-lu.html"/>
+        <id>https://zsrl.top/shi-me-shi-shi-ying-lu.html</id>
 
         <updated>2021-07-09T01:07:19+08:00</updated>
             <summary>
