@@ -1,10 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "知识燃料",
+    "title": "金融名词网",
     "description": "",
     "home_page_url": "https://zsrl.top",
     "feed_url": "https://zsrl.top/feed.json",
     "user_comment": "",
+    "icon": "https://zsrl.top/media/website/unicorn.png",
     "author": {
         "name": "pluto"
     },
